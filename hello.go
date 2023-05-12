@@ -1,5 +1,5 @@
 package go_module_hello
 
-func HelloModule() string {
+func HelloModule(name string) string {
 	return "Hello, World! This is Golang"
 }
